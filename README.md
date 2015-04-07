@@ -1,0 +1,2 @@
+# yardnavigator
+This app will allow a user to map their yard area and place obstacles such as trees and directional hazards such as hills. Once the user's yard is set then yard navigator can generate a mower pattern based on mower type, size, and mowing preference (push clippings to once area, checkered, shortest time). Then attach your mobile device to your riding lawn mower and it will overlay and guide you to mow the pattern you desire.
